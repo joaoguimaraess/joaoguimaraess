@@ -20,6 +20,7 @@ um curso de desenvolvimento Full-Stack, focado no mercado de trabalho.
 
 [<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='node' height='30'>](https://github.com/joaoguimaraess) [<img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='markdown' height='30'>](https://github.com/joaoguimaraess) [<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>](https://github.com/joaoguimaraess) [<img src='https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7' alt='netlify' height='30'>](https://github.com/joaoguimaraess) [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/joaoguimaraess) [<img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='30'>](https://github.com/joaoguimaraess)
 
+[![joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguimaraess&show_icons=true&theme=tokyonight)](https://github.com/joaoguimaraess/github-readme-stats)
 
 
 ## 🔗 Links
